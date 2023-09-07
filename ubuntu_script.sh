@@ -7,7 +7,7 @@ sudo apt upgrade -y
 
 # --------------------------------- PROGRAMS --------------------------------- #
 # List
-programs_snap=(code firefox)
+programs_snap=(firefox)
 programs_apt=(build-essential gdb clangd-12)
 
 
