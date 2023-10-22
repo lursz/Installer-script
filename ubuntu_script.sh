@@ -25,7 +25,7 @@ do
 done
 
 # ---------------------------- VS CODE EXTENSIONS ---------------------------- #
-extensions = (stackbreak.comment-divider sirmspencer.vscode-autohide usernamehw.errorlens ms-vscode-remote.remote-wsl ms-python.python github.copilot llvm-vs-code-extensions.vscode-clangd rust-lang.rust-analyzer)
+extensions = (stackbreak.comment-divider ms-python.python github.copilot llvm-vs-code-extensions.vscode-clangd rust-lang.rust-analyzer)
 
 for i in "${extensions[@]}"
 do
